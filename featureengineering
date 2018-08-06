@@ -1,13 +1,13 @@
 1) cntry - Country : Categorical.
 2) year - Year : Continuous - Ratio
 3) idno: Respondent's identification number: Continuous. Ordinal
-4) tvtot: TV watching, total time on average weekday : Continuous. Ordinal
-5) ppltrst: Most people can be trusted : Continuous. Ordinal
-6) pplfair: Most people try to take advantage of you : Continuous. Ordinal
-7) pplhlp: Most of the time people helpful or mostly looking out for themselves : Continuous. Ordinal
-8) happy: How happy are you : Continuous. Ordinal
-9) sclmeet: How often socially meet with friends, relatives or colleagues : Continuous. Ordinal
-10) sclact: Take part in social activities compared to others of same age : Continuous. Ordinal
+4) tvtot: TV watching, total time on average weekday : Continuous. Interval
+5) ppltrst: Most people can be trusted :Continuous. Interval
+6) pplfair: Most people try to take advantage of you : Continuous. Interval
+7) pplhlp: Most of the time people helpful or mostly looking out for themselves : Continuous. Interval
+8) happy: How happy are you : Continuous. Interval
+9) sclmeet: How often socially meet with friends, relatives or colleagues : Continuous. Interval
+10) sclact: Take part in social activities compared to others of same age : Continuous. Interval
 11) gndr: Gender: Categorical.
 12) agea: Age of respondent, calculated : Continuous. Ratio
 13) partner: Lives with husband/wife/partner at household grid : Categorical.
