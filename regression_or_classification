@@ -1,0 +1,13 @@
+1) Regression. We want to predict the amount somone will spend, a continious variable. 
+
+2) Classification. Since the color variable is a classification and can only be a finite number of options. 
+
+3) Regression. While we can look at the variable as continious because not many familys have more than 5 children, i think regression would be more ideal. 
+
+4) Classification. Signing up for a service is a simple yes or no. 
+
+5) Regression. Number of times someone will get sick is a continious variable.  
+
+6) Classification. The answer is a yes or a no question.
+
+7) Classification. Finite number of mediceds to be give as decided by the number of symptoms. 
